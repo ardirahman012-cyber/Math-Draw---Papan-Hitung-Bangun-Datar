@@ -1,0 +1,6 @@
+{
+  "name": "MathDraw - Papan Hitung Bangun Datar C5",
+  "description": "Aplikasi interaktif pengerjaan soal uraian matematika bangun datar level kognitif C5-Evaluasi berbasis kanvas coret tangan, refleksi emosi, kunci jawaban visual, dan portal guru berfolder sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
